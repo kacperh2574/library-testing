@@ -1,0 +1,7 @@
+fixtures
+node_modules
+plugins
+support
+cypress.json
+package-lock.json
+package.json
